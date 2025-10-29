@@ -18,7 +18,7 @@ A Flutter app that fetches user data from a public API (`https://jsonplaceholder
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rojinvgeo/Fetch_Json_Public-_Api.git
+   git clone https://github.com/rojinvgeo/Fetch_Json_Public_Api.git
 2. **Navigate to the project folder:**
    ```bash
    cd json_fetch_pub_api
