@@ -1,16 +1,31 @@
-# json_fetch_pub_api
+# Fetch JSON Demo
 
-A new Flutter project.
+A Flutter app that fetches user data from a public API (`https://jsonplaceholder.typicode.com/users`) and displays it beautifully with cards and navigation to user details.
 
-## Getting Started
+## 💡 Features
+- Fetches live data from API
+- User list and detailed info screens
+- Polished UI with shadows and padding
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🧠 What I Learned
+- How to fetch JSON data using the `http` package.
+- Parsing and displaying API data in Flutter.
+- Building UI with `ListView` and `Card` widgets.
+- Navigating between screens with `Navigator`.
+- Using `FutureBuilder` for async UI handling.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/fetch_json_demo.git
+2. **Navigate to the project folder:**
+   ```bash
+   cd json_fetch_pub_api
+3. **Get dependencies:**
+   ```bash
+   flutter pub get
+4. **Run the app:**
+   ```bash
+   flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
